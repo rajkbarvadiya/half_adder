@@ -5,5 +5,5 @@ module half_adder(a,b,sum,carry);
 input a,b; //input
 output sum,carry;//output
 //reg sum,carry;//output
-//write logic for addition 
+//write logic for addition ...
 endmodule
